@@ -1,0 +1,16 @@
+#weatherDataContainer {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: #f9f9f9;
+    background-image: url('fluffy.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat;
+    height: 400px;
+}
+
+body {
+    background-color: #87CEEB; 
+    margin: 0;
+    padding: 0;
+}
